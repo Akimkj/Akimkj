@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mika Marques 👋</h1>
 
 * 🎓 Studying Ciência da Computação - UFMA
-* 📚 Studying Algoritmos - CursoemVídeo
+* 📚 Studying RECODE PRO AI 2024/2025
   
 ![Mika Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=Akimkj&show_icons=true&theme=radical&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akimkj&layout=compact&theme=radical)
