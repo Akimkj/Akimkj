@@ -6,7 +6,7 @@
 
 ## ℹ️ Sobre mim
 
-Estudante de graduação no curso Ciência da Computação na Universidade Federal do Maranhão (UFMA). Atualmente participa de projetos de extensão e pesquisa com o Telemídia - MA, com ênfase nas áreas de Processamento de Linguagem Natural e Educação. Também é diretor de Ensino do Diretório Acadêmico de Ciência da Computação (DACOMP).
+Estudante de graduação no curso Ciência da Computação na Universidade Federal do Maranhão (UFMA). Atualmente participa de projetos de extensão e pesquisa com o Telemídia - MA, com ênfase nas áreas de Processamento de Linguagem Natural e Educação. Também é diretor de Ensino do Diretório Acadêmico de Computação (DACOMP) da Universidade Federal do Maranhão.
 
 ## 🛠️ Tecnologias 
 
