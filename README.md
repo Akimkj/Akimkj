@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Mika Marques
 
 🖥️ Desenvolvedor focado no front-end e no Desenvolvimento de sistemas.  
-🧠 Interessado na área de Engenharia de Software, Processamento de Linguagem natural e Desenvolvimento Web  
+🧠 Interessado na área de Engenharia de Software, Processamento de Linguagem natural, Machine Learning e Desenvolvimento Web.  
 📍 São Luís - MA
 
 ## ℹ️ Sobre mim
